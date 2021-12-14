@@ -16,6 +16,7 @@ const Technologies = () =>  (
             Experienced with <br/>
             React.Js<br/>
             React Native<br/>
+            Flutter<br/>
             HTML<br/>
             CSS<br/>
             BootsStrap

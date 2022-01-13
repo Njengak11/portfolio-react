@@ -15,7 +15,7 @@ export const projects = [
       image: '/images/lama.png',
       tags: ['Next.js', 'React.js', 'HTML', 'CSS'],
     source: 'https://github.com/Njengak11/pizza-restaurant',
-    visit: 'https://vercel.com/njengak11/pizza',
+    visit: 'https://pizza-nu.vercel.app/',
     id: 1,
   },
 

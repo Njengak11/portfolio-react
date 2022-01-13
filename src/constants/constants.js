@@ -66,13 +66,22 @@ export const projects = [
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/Njengak11/pig-dice',
     visit: 'https://njengak11.github.io/pig-dice/',
-    id: 5,
+    id: 6,
   },
 
-  
+  {
+    title: 'Distance Matrix App',
+    description: "This is a web app that can be used to make delivery routes similar to one used by Uber and Glovo that was built using HTML, CSS, ReactJS and TomTom Maps API",
+      image: '/images/matrix.png',
+      tags: ['HTML', 'CSS', 'Javascript', 'ReactJS', 'TomTom API'],
+    source: 'https://github.com/Njengak11/matrix-routing',
+    visit: 'https://matrix-routing.vercel.app/',
+    id: 6,
+  },
  
 ];
 
 export const TimeLineData = [
   { year: 2017, text: '', },,
 ];
+
